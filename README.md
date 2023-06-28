@@ -1,2 +1,1 @@
-# Raspberry-B-
-树莓派B+
+树莓派4B 
